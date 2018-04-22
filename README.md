@@ -78,7 +78,7 @@ The following are the module implementations provided by this package. Some modu
 | timers | [jryans/timers-browserify](https://github.com/jryans/timers-browserify) | --- |
 | tls | --- | [tls.js](./mock/tls.js) |
 | tty | [substack/tty-browserify](https://github.com/substack/tty-browserify) | [tty.js](./mock/tty.js) |
-| url | [defunctzombie/node-url](https://github.com/defunctzombie/node-url) | --- |
+| url | [dunshiftio/url-parse](https://github.com/unshiftio/url-parse) | --- |
 | util | [defunctzombie/node-util](https://github.com/defunctzombie/node-util) | --- |
 | vm | --- | --- |
 | zlib | [devongovett/browserify-zlib](https://github.com/devongovett/browserify-zlib) | --- |
