@@ -1,11 +1,11 @@
 {
-  "name": "node-libs-react-native",
+  "name": "@umpc/node-libs-react-native",
   "version": "2.0.0",
   "author": "Tobias Koppers @sokra",
   "description": "Node core modules for React Native",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parshap/node-libs-react-native.git"
+    "url": "git+https://github.com/umpc/node-libs-react-native.git"
   },
   "dependencies": {
     "assert": "^1.4.1",
@@ -31,13 +31,13 @@
     "url-parse": "^1.4.0",
     "util": "^0.10.3"
   },
-  "homepage": "http://github.com/parshap/node-libs-react-native",
+  "homepage": "http://github.com/umpc/node-libs-react-native",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/parshap/node-libs-react-native/issues"
+    "url": "https://github.com/umpc/node-libs-react-native/issues"
   }
 }
